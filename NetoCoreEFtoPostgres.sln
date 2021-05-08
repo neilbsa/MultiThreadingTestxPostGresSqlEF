@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetoCoreEFtoPostgres", "NetoCoreEFtoPostgres\NetoCoreEFtoPostgres.csproj", "{E124E72B-8BFB-493B-93DA-693A1CA186F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E124E72B-8BFB-493B-93DA-693A1CA186F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E124E72B-8BFB-493B-93DA-693A1CA186F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E124E72B-8BFB-493B-93DA-693A1CA186F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E124E72B-8BFB-493B-93DA-693A1CA186F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43796623-964D-4699-BCDF-46930063BED4}
+	EndGlobalSection
+EndGlobal
